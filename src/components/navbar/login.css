@@ -1,0 +1,31 @@
+.login{
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+}
+
+.login-icon{
+    display: flex;
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: rgb(132, 49, 210);
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-name-initial{
+    color: white;
+    font-size: 1.5rem;
+}
+
+.user-name{
+    margin: auto 1px auto 5px;
+    font-weight: 500;
+    color: black;
+}
+
+.login-down-arrow{
+    width: 2rem;
+    height: 2rem;
+}

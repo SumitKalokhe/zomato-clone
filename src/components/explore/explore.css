@@ -1,0 +1,17 @@
+.explore-section{
+    padding-top: 1rem;
+}
+
+.explore-title{
+    color: rgb(28, 28, 28);
+    font-size: 2rem;
+    margin: 0px 0px 3.2rem;
+    line-height: 1.2;
+    font-weight: 500;
+}
+
+.explore-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

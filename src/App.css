@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;900&family=Nunito&family=Ubuntu&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Nunito, Helvetica, sans-serif;
+}
+
+.max-width {
+  max-width: 1100px;
+  margin: 0 auto;
+}
