@@ -8,7 +8,7 @@ const Dineout = () => {
             <div>
                 <Filters />
             </div>
-            </div>)
+            This is dineout</div>)
 }
 
 export default Dineout;
